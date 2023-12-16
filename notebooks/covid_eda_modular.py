@@ -20,7 +20,7 @@ print(f'Data path: {data_path}')
 
 # COMMAND ----------
 
-from covid_analysis.transforms import *
+from covid_analysis.transform import *
 import pandas as pd
 
 df = pd.read_csv(data_path)
