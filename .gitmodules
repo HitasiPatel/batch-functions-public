@@ -1,0 +1,3 @@
+[submodule "Avops-allcode/Avops-allcode/avops-dataops-foundation"]
+	path = Avops-allcode/Avops-allcode/avops-dataops-foundation
+	url = https://chrysalis-innersource@dev.azure.com/chrysalis-innersource/Mobility%20Service%20Line/_git/avops-dataops-foundation
